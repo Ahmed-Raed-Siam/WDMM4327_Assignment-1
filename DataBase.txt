@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS laravel_training;
+CREATE DATABASE IF NOT EXISTS laravel_training collate 'utf8mb4_unicode_ci';
